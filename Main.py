@@ -34,5 +34,3 @@ def get_url():
     # print(response.json())
 
 get_url()
-
-    # http://www.omdbapi.com/?apikey=da0d1f91&t=Star+wars
